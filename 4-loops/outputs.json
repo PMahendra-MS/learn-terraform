@@ -1,0 +1,22 @@
+{
+  "instances_info": {
+    "sensitive": false,
+    "type": [
+      "tuple",
+      [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ]
+    ],
+    "value": [
+      "172.31.16.151",
+      "172.31.30.127",
+      "172.31.22.26",
+      "172.31.21.160",
+      "172.31.31.22"
+    ]
+  }
+}
